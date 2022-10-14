@@ -1,10 +1,9 @@
-# Subdomain DAOS
+# Zap Name Server
+The Zap Name Server is a permissionless, open system for translating Web 3 Domains to Arbitrary Endpoints
+The Zap Name Server is organized around an ENS or ZNS (Zap Name Server) domain name (e.g `satoshi.zap`), which is owned by the subscribers.
 
-A ENS Subdomain Decentralized Autonomous Organization (SDAO) is a DAO organized around a ENS domain name (e.g `sismo.eth`), which is owned by the DAO.
-
-SDAO members are all owners of a subdomain (e.g `ziki.sismo.eth`). You can read about Sismo's specific SDAO [here](https://blog.sismo.io/what-is-sismo-part-2-sismo-dao-a06f55d1b829).
-
-This repository publishes a set of smart contracts that can be used to kickstart a SDAO. Please feel free to create issues or to connect with its maintainer: [@sismo_eth]() on twitter or contact at sismo.io
+Subscribers are all Delegates of the Zap VM
+Delegates are leased a Zap Name Server Account (user1.vm.zap) in exchange for staking ZAP
 
 # NPM Package
 
